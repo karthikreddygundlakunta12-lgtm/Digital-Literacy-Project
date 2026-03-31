@@ -44,8 +44,6 @@ report/
 
 Contains the final, consolidated Project Report summarizing my findings and reflections across all tasks. Important Links
 
-Digital Literacy Awareness Quiz: 
-
 My LinkedIn Profile:https://www.linkedin.com/in/karthik-reddy-357a373bb/ 
 My Kaggle profile : https://www.kaggle.com/karthikgundlakunta
 
