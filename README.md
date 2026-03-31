@@ -6,11 +6,11 @@ This project is part of the CSE0001 Digital Literacy course. It focuses on devel
 
 Student Profile:
 
-Name: Policharla Purandhar
+Name: KARTHIK REDDY
 
-Registration Number: 25MIP10020
+Registration Number: 25MEI10074
 
-Program: First-Year, INT MTECH CDS
+Program: First-Year, INT MTECH CYBER
 
 University: VIT Bhopal University
 
@@ -46,8 +46,8 @@ Contains the final, consolidated Project Report summarizing my findings and refl
 
 Digital Literacy Awareness Quiz: 
 
-My LinkedIn Profile: 
-My Kaggle profile : har
+My LinkedIn Profile:https://www.linkedin.com/in/karthik-reddy-357a373bb/ 
+My Kaggle profile : https://www.kaggle.com/karthikgundlakunta
 
 Tools and Platforms Used:
 
